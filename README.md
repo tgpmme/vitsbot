@@ -9,3 +9,6 @@ pip install requests
 pip install schedule
 
 pip install pytz
+
+
+API接口使用 这个 https://github.com/Artrajz/vits-simple-api
